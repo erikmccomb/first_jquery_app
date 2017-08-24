@@ -1,0 +1,14 @@
+#wrapper {
+  width: 100%;
+  overflow: hidden;
+}
+
+#options {
+  width: 50%;
+  float: left;
+  border-right: 2px solid black;
+}
+
+#cart {
+  margin-left: 51%;
+}
